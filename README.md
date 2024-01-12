@@ -32,7 +32,7 @@
 
 ### RESUMO
 
-SCATENA, GABRIEL DOS SANTOS. **Democratizando a concessão de crédito com base em dados do Open Finance.** 2023.
+SCATENA, GABRIEL DOS SANTOS. **Democratizando a concessão de crédito com dados do Open Finance.** 2023.
 Monografia (MBA em Ciências de Dados) – Instituto de Ciências
 Matemáticas e de Computação, Universidade de São Paulo, São Carlos – SP, 2023.
 
