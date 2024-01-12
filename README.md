@@ -37,7 +37,9 @@ Monografia (MBA em Ciências de Dados) – Instituto de Ciências
 Matemáticas e de Computação, Universidade de São Paulo, São Carlos – SP, 2023.
 
 A concessão de crédito no Brasil representa um desafio significativo, especialmente para trabalhadores autônomos e empreendedores com renda informal e variável. Ao longo da história, o acesso ao crédito tem sido historicamente baixo para esse grupo de profissionais em comparação com outros países. Isso se deve principalmente ao fato de que as instituições financeiras tradicionalmente utilizam critérios como histórico de renda estável e fluxo de caixa na análise de crédito. Esses critérios acabam excluindo aqueles com rendas irregulares ou informais, tornando difícil para eles obter crédito para investimentos, expansão de negócios ou mesmo para lidar com desafios financeiros imprevistos. Diante dessa realidade, é essencial encontrar maneiras de aprimorar a análise de crédito e concessão para esses profissionais, a fim de ajudá-los a superar obstáculos financeiros e impulsionar seu desenvolvimento econômico. Esta tese propõe o desenvolvimento de um modelo baseado em dados de Open Finance, ou Sistema de Open Finance, que pode auxiliar as instituições financeiras a tomar decisões de crédito mais precisas e justas, visando melhorar o acesso ao crédito e a situação financeira desses indivíduos.    
+
 _Palvras chave: Sistema de finanças abertas, Risco de Crédito, Aprendizado de máquina_
+
 ### ABSTRACT
 
 SCATENA, GABRIEL DOS SANTOS. **Democratizing credit granting based on Open Finance data.** 2023. 
