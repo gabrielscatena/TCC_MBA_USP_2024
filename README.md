@@ -76,3 +76,17 @@ _Keywords: Open Finance, Credit, Machine learning._
 *"Construir um modelo de aprendizado de máquina exige equilíbrio entre habilidades de negócios, científicas e técnicas... Pela minha experiência, você precisa dedicar muito tempo à parte de negócios, por exemplo, como definir um objetivo, às vezes não é fácil, como selecionar amostras para obter o melhor desempenho, isso é uma das coisas mais importantes."* - Zheng
 
 ### Criando um Modelo de Aprendizado de Máquina para Risco de Crédito
+
+### Repositório do Trabalho de Conclusão de Curso (TCC)
+Este repositório contém os seguintes arquivos relacionados ao Trabalho de Conclusão de Curso (TCC) intitulado "TCC_MBA_GabrielScatena":
+
+1. TCC_MBA_GabrielScatena.pdf:
+  Este arquivo contém a versão final do Trabalho de Conclusão de Curso em formato PDF.
+
+3. TCC_MBA_GabrielScatena.ipynb:
+  Este arquivo Jupyter Notebook contém o código fonte utilizado na análise e desenvolvimento do trabalho. Você pode visualizar e executar o código interativamente.
+
+4. TCC_MBA_GabrielScatena_classic.html:
+  Arquivo HTML fornece uma visualização estática do código Jupyter Notebook. Pode ser útil para uma rápida revisão sem a necessidade de executar o código.
+
+Fique à vontade para explorar os arquivos disponíveis e entre em contato caso tenha alguma dúvida ou comentário. Agradecemos pela visita!
