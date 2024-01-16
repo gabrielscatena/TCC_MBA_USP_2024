@@ -89,4 +89,6 @@ Este repositório contém os seguintes arquivos relacionados ao Trabalho de Conc
 4. TCC_MBA_GabrielScatena_classic.html:
   Arquivo HTML fornece uma visualização estática do código Jupyter Notebook. Pode ser útil para uma rápida revisão sem a necessidade de executar o código.
 
+5. TemplateTCC_GabrielScatena.pptx: Slides de apresentação do TCC.
+   
 Fique à vontade para explorar os arquivos disponíveis e entre em contato caso tenha alguma dúvida ou comentário. Agradecemos pela visita!
